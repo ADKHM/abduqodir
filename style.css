@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+.h1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.p{
+    text-align: center;
+}
+#img1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.pqodir{
+    color: white;
+    background-color: black;
+}
